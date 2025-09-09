@@ -1,3 +1,5 @@
+import utils.transport
+import utils.session
 import argparse
 import requests
 from ethiobank_receipts import extract_receipt
